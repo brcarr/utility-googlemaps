@@ -1,0 +1,7 @@
+{
+    "en": "src/resources/maps-en-US",
+    "fr": "src/resources/maps-fr-FR",
+    "de": "src/resources/maps-de-DE",
+
+    "root": "en"
+}
